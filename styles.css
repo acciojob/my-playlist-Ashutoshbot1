@@ -47,6 +47,13 @@ body{
 	background-color:#cccccc;
 }
 
+ul li{
+/* 	text-decoration:none;
+	*/
+
+	list-style-type:none;
+}
+
 video,audio{
 	width:100%;
 }
